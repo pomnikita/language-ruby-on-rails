@@ -2,6 +2,7 @@
 'name': 'Ruby on Rails'
 'fileTypes': [
   'rb'
+  'arb'
   'rxml'
   'builder'
   'Gemfile'
